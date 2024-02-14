@@ -11,7 +11,7 @@
 }
 .page1{
     display: flex;
-    background-image: url(/bootstrap2/images/photographer4.jpg);
+    background-image: url(images/photographer4.jpg);
     background-size: cover; 
     background-repeat: no-repeat;
     object-fit: cover;  
